@@ -9,11 +9,11 @@ Projects are organized by course folders. Each folder contains mini-projects rel
 
 ## Folder Structure
 
-- `Course1-Getting-Started/`
+- [Course 1](Course1/README.md)
 - `Course2-Data-Structures/`
-- `Course3-Web-Data/` (coming soon)
-- `Course4-Databases/`(coming soon)
-- `Course5-Capstone/` (coming soon)
+- `Course3-Web-Data/` 
+- `Course4-Databases/`
+- `Course5-Capstone/`
 
 ---
 
