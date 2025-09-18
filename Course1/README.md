@@ -12,14 +12,13 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 
 2. **Odd/Even Number Checker**  
    - Checks if a number is odd or even.  
-   - Simple practice with conditionals.
 
 3. **Multiplication Table Generator**  
    - Generates the multiplication table of a number.  
-   - User can choose how far the table goes (e.g., up to 10, 20, etc.).
+   - Can choose how far the table goes (e.g., up to 10, 20, etc.).
 
-4. **Number Guessing Game** *(optional if added later)*  
-   - User guesses a random number until correct.  
+4. **Number Guessing Game** 
+   - Guesses a random number until correct.  
    - Practice with loops and conditions.
 
 ---
