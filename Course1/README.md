@@ -8,7 +8,8 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 ## 📂 Projects
 
 1. **Calculator**  
-   - Performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, **division**.
+   - Performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, **division**,**exponents**,**modulus**.
+   - [Project](Course1/calculator.py)
 
 2. **Odd/Even Number Checker**  
    - Checks if a number is odd or even.  
