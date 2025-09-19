@@ -89,8 +89,11 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 
 ‎**⚡ What was difficult for me:** 
 ‎- This was the most overwhelming and challenging project I’ve built so far.
+
 ‎- Took a lot of trials and errors and spent 2 whole hours figuring it out.
+
 ‎- Managing nested loops, break statements, and replay logic was tricky at first.
+
 ‎- Handling invalid input without breaking the game required careful attention.
 ‎
 
