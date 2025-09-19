@@ -11,14 +11,15 @@ Each project focuses on core concepts like variables, input/output, loops, and c
    - Performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, **division**,**exponents**,**modulus**.
    - [Calculator](calculator.py)
 
-2. **Odd/Even Number Checker**  
-   - Checks if a number is odd or even.  
+2. **Even-Odd Finder**  
+   - Checks if a number is odd or even.
+   - [Even-Odd Finder](even_odd_finder.py)
 
-3. **Multiplication Table Generator**  
+4. **Multiplication Table Generator**  
    - Generates the multiplication table of a number.  
    - Can choose how far the table goes (e.g., up to 10, 20, etc.).
 
-4. **Number Guessing Game** 
+5. **Number Guessing Game** 
    - Guesses a random number until correct.  
    - Practice with loops and conditions.
 
