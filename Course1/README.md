@@ -10,6 +10,7 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 1. **Calculator**  
    - Performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, **division**,**exponents**,**modulus**.
    - [Calculator](calculator.py)
+
    
 ‎**📝 What I learned:**
 ‎- How to take user input and convert it to numbers.  
@@ -27,9 +28,11 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 -Learned how to use `try/except` effectively.      
 
 
+
 2. **Even-Odd Finder**  
    - Checks if a number is odd or even.
    - [Even-Odd Finder](even_odd_finder.py)
+
 
 ‎**📝 What I learned:**  
 ‎- Using the modulus operator (`%`) to check divisibility.  
@@ -45,10 +48,12 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 ‎- Made the program user-friendly with a repeat option.  
 
 
+
 3. **Multiplication Table Generator**  
    - Generates the multiplication table of a number.  
    - Can choose how far the table goes (e.g., up to 10, 20, etc.).
    - [Multiplication Table Generator](multiplication_table_generator.py)
+
 
 ‎**📝 What I learned:** 
 ‎- Defining and calling a function with parameters.  
@@ -65,6 +70,7 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 ‎- Fixed my loop logic and indentation errors.  
 ‎- Gained confidence in defining and using functions.  
 ‎
+
 
 4. **Number Guessing Game** 
    - Guesses a random number until correct.  
