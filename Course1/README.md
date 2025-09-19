@@ -35,7 +35,6 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 
 
 ‎**📝 What I learned:**  
-‎- Using the modulus operator (`%`) to check divisibility.  
 ‎- Wrapping code in a loop so the program runs multiple times until the user quits.  
 
 ‎
@@ -51,7 +50,7 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 
 3. **Multiplication Table Generator**  
    - Generates the multiplication table of a number.  
-   - Can choose how far the table goes (e.g., up to 10, 20, etc.).
+   - Can choose how far the table goes (e.g. up to 10, 20, etc).
    - [Multiplication Table Generator](multiplication_table_generator.py)
 
 
@@ -86,19 +85,13 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 ‎- Designing basic game logic with replay functionality.
 ‎
 
-
-‎**⚡ What was difficult for me:** 
+**⚡ What was difficult for me:**
 ‎- This was the most overwhelming and challenging project I’ve built so far.
-
-‎- Took a lot of trials and errors and spent 2 whole hours figuring it out.
-
+‎- Took a lot of trials and errors and spent *2 whole hours* figuring it out.
 ‎- Managing nested loops, break statements, and replay logic was tricky at first.
-
-‎- Handling invalid input without breaking the game required careful attention.
 ‎
 
-
-‎**✅ What I improved:**  
+**✅ What I improved:**  
 ‎- Gained confidence in using loops effectively.  
 ‎- Learned how to control the flow of a program with `break` and `while True`.  
 ‎- Understood how to combine multiple concepts (loops, conditionals, random numbers, error handling) in one project.
