@@ -75,8 +75,31 @@ Each project focuses on core concepts like variables, input/output, loops, and c
 4. **Number Guessing Game** 
    - Guesses a random number until correct.  
    - Practice with loops and conditions.
+   -[Number Guessing Game](number_guessing_game.py)
 
----
+
+‎**📝 What I learned:**  
+‎- Using the `random` module to generate random numbers.  
+‎- Combining loops (`while` + `for`) for repeated gameplay.  
+‎- Using `break` to stop a loop early when a condition is met.  
+‎- Handling invalid input with `try/except`.  
+‎- Designing basic game logic with replay functionality.
+‎
+
+
+‎**⚡ What was difficult for me:** 
+‎- This was the most overwhelming and challenging project I’ve built so far.
+‎- Took a lot of trials and errors and spent 2 whole hours figuring it out.
+‎- Managing nested loops, break statements, and replay logic was tricky at first.
+‎- Handling invalid input without breaking the game required careful attention.
+‎
+
+
+‎**✅ What I improved:**  
+‎- Gained confidence in using loops effectively.  
+‎- Learned how to control the flow of a program with `break` and `while True`.  
+‎- Understood how to combine multiple concepts (loops, conditionals, random numbers, error handling) in one project.
+
 
 ## 🚀 How to Run
 
