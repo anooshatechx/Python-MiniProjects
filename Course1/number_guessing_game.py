@@ -15,7 +15,7 @@ while True:
 				print("Yayyy!!! You got it correct 🎯🔥")
 				print(f"The correct number is: {guess}")
 				print(f"Your attempts: {attempt}")
-				print("Thanks for playing!💗)
+				print("Thanks for playing!💗")
 				break
 		except ValueError:
 			print("Please enter a number only!")
