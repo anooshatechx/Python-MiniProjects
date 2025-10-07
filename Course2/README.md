@@ -12,7 +12,8 @@ You can:
 - Add new contacts with names and phone numbers  
 - Search for a saved contact by name  
 - View all saved contacts in one place  
-- Exit the program anytime  
+- Exit the program anytime
+- [Contact Book](contact_book.py)
 
 **📝 What I learned:**  
 - How to use **dictionaries** to store data as key-value pairs  
@@ -27,7 +28,8 @@ It does:
 - Displays each question one by one  
 - Takes the user’s answer and checks if it’s correct  
 - Shows feedback (“Superb!” or the right answer if wrong)  
-- Displays the final score out of 5 at the end  
+- Displays the final score out of 5 at the end
+- [Quiz Game](quiz_game.py) 
 
 **📝 What I learned:**   
 - Comparing user input correctly even if the letter case is different  
@@ -40,7 +42,8 @@ It does:
 A simple toolkit that works like a **mini calculator**.  
 You can do:  
 - Addition, Subtraction, Multiplication, or Division  
-- Square or Square Root of a number  
+- Square or Square Root of a number
+- [Math Toolkit](math_toolkit.py) 
 
 The program keeps running until the user chooses to exit.  
 
