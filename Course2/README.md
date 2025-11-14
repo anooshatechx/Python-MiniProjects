@@ -19,7 +19,7 @@ You can:
 - How to use **dictionaries** to store data as key-value pairs  
 - Taking continuous input using a `while True` loop  
 
-**Skills used 🚀**
+**Skills used 🚀:**
 - Python dictionaries, loops, conditional statements, user input/output handling, string formatting (f-strings), menu-driven CLI design, basic error handling
 
 ---
@@ -38,7 +38,7 @@ It does:
 - Comparing user input correctly even if the letter case is different  
 - Managing the quiz flow using loops and conditions
 
-**Skills used 🚀**
+**Skills used 🚀:**
 - Python dictionaries, loops, conditional statements, user input handling, scoring logic, string formatting, feedback messages
 
 ---
@@ -57,7 +57,7 @@ The program keeps running until the user chooses to exit.
 - How to handle multiple operations with `if-elif` statements  
 - Preventing errors like dividing by zero
 
-**Skills used 🚀**
+**Skills used 🚀:**
 - Loops, conditional statements, arithmetic operations, square and square root calculations, user input validation, error handling with try/except, menu-driven CLI program, string formatting
 
 ---
